@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family:sans-serif ;
+
+}
+#page-head{
+    text-align: center;
+    margin-top:25px;
+    color: grey;
+}
+ul{
+    position: relative;
+    left:40% ;
+    list-style-type:none;
+    
+}
+li{
+    margin-left: -40px;
+    width: 400px;
+}
+form{
+    position:relative;
+    left:40%;
+}
+p{
+    display: inline;
+    
+}
+p{
+    display: inline;
+}
+.details{
+    display: flex;
+    background-color:blue;
+    justify-content: space-between;
+    margin-bottom: 1px;
+}
+
